@@ -1,5 +1,5 @@
 #ifndef SALAM_H
-#dedfine SALAM_H
+#define SALAM_H
 
 #include<string>
 

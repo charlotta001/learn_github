@@ -1,3 +1,5 @@
+#include"halo.h"
+
 #include <iostream>
 
 int main(){
